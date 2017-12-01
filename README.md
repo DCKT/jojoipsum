@@ -1,4 +1,4 @@
 # jojoipsum
 
-![https://imgflip.com/i/20cpvm](Dio) 🤜🤜🤜🤜 Insert random Jojo's Bizarre
+![Dio](data/repo/dio.jpg?raw=true "Dio") 🤜🤜🤜🤜 Insert random Jojo's Bizarre
 Adventure picture to your image tag 🤜🤜🤜🤜
