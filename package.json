@@ -1,6 +1,6 @@
 {
   "name": "jojoipsum",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Insert random Jojo's Bizarre Adventure picture to your image tag",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
   "author": "Thomas Deconinck",
   "license": "ISC",
   "dependencies": {
-    "micro": "^9.0.2"
+    "micro": "^9.0.2",
+    "sharp": "^0.18.4"
   },
   "devDependencies": {
     "eslint-config-dck": "^1.0.4",
